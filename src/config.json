@@ -1,0 +1,21 @@
+{
+  "sources": [
+    {
+      "name": "whats-new",
+      "provider": "github",
+      "owner": "j6nca"
+    }
+  ],
+  "metrics": {
+    "enabled": true
+  },
+  "notifications": {
+    "enabled": false,
+    "providers": [
+      {
+        "name": "",
+        "webhook": ""
+      }
+    ]
+  }
+}
